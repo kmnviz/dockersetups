@@ -1,0 +1,1 @@
+Filebeat OSS docker setup that output logs to OpenSearch and Kafka
