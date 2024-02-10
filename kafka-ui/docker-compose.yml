@@ -7,4 +7,4 @@ services:
     environment:
       DYNAMIC_CONFIG_ENABLED: 'true'
     volumes:
-      - ./docker-compose.yml:/etc/kafkaui/dynamic_config.yaml
+      - ./configx.yml:/etc/kafkaui/dynamic_config.yaml

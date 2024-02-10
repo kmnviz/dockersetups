@@ -1,0 +1,11 @@
+auth:
+  type: DISABLED
+kafka:
+  clusters:
+  - bootstrapServers: localhost:27017
+    name: defictive
+    properties: {}
+    readOnly: false
+rbac:
+  roles: []
+webclient: {}
