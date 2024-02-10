@@ -2,7 +2,7 @@ auth:
   type: DISABLED
 kafka:
   clusters:
-  - bootstrapServers: localhost:27017
+  - bootstrapServers: localhost:9092
     name: defictive
     properties: {}
     readOnly: false
